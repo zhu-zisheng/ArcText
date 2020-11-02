@@ -1,11 +1,14 @@
 # ArcText
-UGUI弧度字效果
+UGUI弧度字效果。
 
 ![image](https://github.com/kolazhu/ArcText/blob/main/image.png)
 
+Unity2018.4.3版本测试运行正常。
+
 Created by zhuzisheng.
 
------------
+## License
+
 MIT License
 
 Copyright (c) 2020 zhuzisheng
