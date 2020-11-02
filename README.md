@@ -7,6 +7,10 @@ Unity2018.4.3版本测试运行正常。
 
 Created by zhuzisheng.
 
+## Usage
+
+将ArcText.cs放入你的项目内Asset目录下，等待编译完成后，添加ArcText组件到需要该效果的Text所在GameObject上。
+
 ## License
 
 MIT License
